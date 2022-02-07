@@ -13,5 +13,6 @@ public/manifest.json
 public/hot
 .env.dusk.*
 .env.example
+.laravel-echo-server.lock
 public/mix-manifest.json
 npm-debug.log

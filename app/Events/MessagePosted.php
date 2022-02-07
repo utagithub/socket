@@ -17,6 +17,8 @@ class MessagePosted implements ShouldBroadcast
 {
     use Dispatchable, InteractsWithSockets, SerializesModels;
 
+//    public $broadcastQueue = 'gb';
+
     /**
      * Message
      *
